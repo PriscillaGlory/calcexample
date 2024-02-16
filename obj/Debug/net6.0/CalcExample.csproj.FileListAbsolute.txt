@@ -1,0 +1,14 @@
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.exe
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.deps.json
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.runtimeconfig.json
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.dll
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\bin\Debug\net6.0\CalcExample.pdb
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfoInputs.cache
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.AssemblyInfo.cs
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.csproj.CoreCompileInputs.cache
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.dll
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\refint\CalcExample.dll
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
