@@ -10,3 +10,5 @@ Console.WriteLine("Division Call");
 calc.Div(101, 42);
 Console.WriteLine("Sub Call");
 calc.Sub(101, 42);
+Console.WriteLine("Average Call");
+calc.Avg(101, 42);
