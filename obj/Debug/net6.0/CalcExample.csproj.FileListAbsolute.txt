@@ -12,3 +12,4 @@ C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\re
 C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
 C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
 C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
+C:\Users\priscilla glory\Desktop\web\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.sourcelink.json
